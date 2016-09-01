@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="YatraSuite">
+<tests>
+<test name="YatraTest">
+<classes>
+<class name="com.selenium.gspann.yatraTest.YatraTestEx">
+</class>
+</classes>
+</test>
+</tests>
+</suite>
